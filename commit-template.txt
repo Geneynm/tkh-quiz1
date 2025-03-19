@@ -1,8 +1,0 @@
-# Summary:
-(Write a short summary of your commit)
-
-# Description:
-(Describe the changes in detail)
-
-# Related Issues:
-(Reference any issues, e.g., Fixes #1)
